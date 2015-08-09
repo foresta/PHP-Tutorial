@@ -24,6 +24,7 @@ echo "</html>";
 
 ### その２ - ヒアドキュメント使ってみる
 ```php
+<?php
 $hello = "Hello World!";
 echo <<< __HTML__
 <html>
