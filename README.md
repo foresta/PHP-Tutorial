@@ -46,6 +46,13 @@ $hello = "Hello World";
 
 ```
 
+### 配列の宣言
+
+```php
+$array = [];
+$array = array();
+```
+
 ## ブログを作ってみる
 
 * ブログ一覧ページ
