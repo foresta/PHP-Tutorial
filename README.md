@@ -59,6 +59,20 @@ $array = [
 ];
 ```
 
+### foreach
+```php
+foreach ($arr as $a){
+  echo $a;
+}
+
+<?php foreach ($arr as $a) : ?>
+<li>
+  <a><?php echo $a; ?></a>
+</li>
+<?php endforeach; ?>
+```
+
+
 ## ブログを作ってみる
 
 * ブログ一覧ページ
