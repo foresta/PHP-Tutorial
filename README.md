@@ -51,6 +51,12 @@ $hello = "Hello World";
 ```php
 $array = [];
 $array = array();
+
+$array = [
+  ["id" => 1, "title" => "タイトル1", "body" => "body1"],
+  ["id" => 2, "title" => "タイトル2", "body" => "body2"],
+  ["id" => 3, "title" => "タイトル3", "body" => "body3"]
+];
 ```
 
 ## ブログを作ってみる
